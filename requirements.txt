@@ -1,0 +1,10 @@
+requests==2.22.0
+lxml==4.4.1
+google==2.0.2
+beautifulsoup4==4.8.0
+nltk
+pandas
+numpy
+sklearn
+re
+string
